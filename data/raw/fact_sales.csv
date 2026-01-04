@@ -6,4 +6,4 @@ sale_date,store_id,sku_id,units_sold,net_sales,promo_flag
 2025-11-26,S003,P003,6,90.0,FALSE
 2025-11-26,S002,P005,2,250.0,False
 2025-11-27,S002,P002,7,56.0,FALSE
-2025-11-27.s001,P007,100,500.0,True
+2025-11-27,S001,P007,100,500.0,True
