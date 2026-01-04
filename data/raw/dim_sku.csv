@@ -2,3 +2,7 @@ sku_id,sku_name,category,brand
 P001,Shampoo 200ml,Personal Care,BrandX
 P002,Soap 100g,Personal Care,BrandY
 P003,Biscuits 500g,Food,BrandZ
+p004,Notebook 200,Stationary,BrandC
+p005,Cooking oil 500ml,Food,BrandS
+p006,Milk 2ltr,Food,BrandW
+p007,Tshirts 20,Accessories,BrandT

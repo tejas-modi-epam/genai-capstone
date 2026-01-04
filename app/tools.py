@@ -55,6 +55,5 @@ def simulate_promo_uplift(discount_increase_pct: float = 10.0) -> pd.DataFrame:
 
     uplift_factor = 1.0 + 0.5 * (discount_increase_pct / 10.0)
     df["sim_units_sold"] = df["units_sold"] * uplift_factor
-    # assume proportional net_sales change
     df["sim_net_sales"] = df["net_sales"] * uplift_factor
     return df
