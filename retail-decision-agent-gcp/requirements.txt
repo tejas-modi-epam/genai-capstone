@@ -1,0 +1,12 @@
+streamlit==1.40.0
+
+google-cloud-bigquery==3.25.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-google-vertexai==2.0.5
+
+pandas==2.2.3
+python-dotenv==1.0.1
