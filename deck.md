@@ -47,8 +47,6 @@ Build an AI Agent that:
 ## High-Level Architecture
 
 
-<img width="342" height="535" alt="image" src="https://github.com/user-attachments/assets/b7182191-bc91-4421-8554-6aaa8e1b3188" />
-
 
 
                     ┌──────────────────────┐
