@@ -243,7 +243,7 @@ Purpose: Provide 3-tab interface for users
 -
 ## Tab 1: Trends Analysis 
 
-![Trends Tab Screenshot](./images/ui_trends_tab.jpg)
+![Trends Tab Screenshot](./ui_trends_tab.jpg)
 
 - Last 30 days daily sales data in table format
 - Line chart visualization showing sales trend over time
@@ -273,7 +273,7 @@ Business Value:
 
 ## Tab 3: Chat Agent
 
-![Chat Agent Screenshot](./images/chat_agent1.jpg)
+![Chat Agent Screenshot](./chat_agent1.jpg)
 
 - User question in text area:  Analyze my last 30 days trend and
 suggest which stores need promo support 
