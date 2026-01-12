@@ -304,13 +304,3 @@ Business Value:
 
 Old Approach: SQL query -> raw numbers -> manual interpretation (hours)  
 New Approach:* Question -> Agent -> automatic insight (seconds)
-
-
-
-## Why This Matters for Data Engineers
-Tool Design: Decouples business logic from orchestration  
-Scalability: Easy to add new tools without changing agent  
-Flexibility: Same agent works with BigQuery,  CSV, or APIs  
-Observability: Verbose logging shows agent's reasoning  
-Production-Ready: Error handling, retry logic, cost tracking  
-
