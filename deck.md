@@ -258,7 +258,7 @@ Business Value:
 
 ## Tab 2 : Promo Simulation
 
-![Promo Simulation Screenshot](./images/ui_promo_tab.jpg)
+![Promo Simulation Screenshot](./ui_promo_tab.jpg)
 
 - Interactive slider to adjust discount percentage
 - Simulated results showing units and sales impact
