@@ -109,7 +109,7 @@ Data Model:
 - dim_date – Calendar dimensions (year, month, day)
 
 
-# Layer 2: Tool Layer 🔧
+# Layer 2: Tool Layer 
 
 | Tool Function | What It Does | Returns |
 |--------------|-------------|---------|
